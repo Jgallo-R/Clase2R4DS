@@ -1,0 +1,22 @@
+
+Sexo	Edad	Estatura	Puntuación	Calificación
+Mujer	21	1.82	5	Aprobado
+Hombre	19	1.83	6	Aprobado
+Mujer	18	1.78	7	Notable
+Mujer	20	1.79	5	Aprobado
+Mujer	23	1.80	9	Sobresaliente
+Hombre	22	1.90	7	Notable
+Mujer	22	1.79	8	Notable
+Hombre	20	1.83	3	Suspenso
+Hombre	21	NA	9	Sobresaliente
+Mujer	21	1.65	2	Suspenso
+Mujer	22	1.73	5	Aprobado
+Hombre	20	1.79	8	Notable
+Hombre	22	1.80	7	Notable
+Mujer	19	1.77	6	Aprobado
+Mujer	19	1.69	3	Suspenso
+Hombre	21	1.75	4	Suspenso
+Mujer	20	1.66	5	Aprobado
+Mujer	21	NA	6	Aprobado
+Mujer	22	1.79	2	Suspenso
+Mujer	23	1.80	8	Notable
