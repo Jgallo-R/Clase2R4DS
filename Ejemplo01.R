@@ -1,6 +1,10 @@
 # Comentario
 # En Rstudio la combinacion de teclas CTRL + SHIFT + N apertura un nuevo editor
 
+# Limpiar memoria
+rm(list=ls())
+
+
 # Modifico/Seteo/Configuro el directorio de trabajo 
 setwd("C:/Users/JGALLO/Desktop/Clase2R4DS")
 

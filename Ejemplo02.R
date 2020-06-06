@@ -43,6 +43,20 @@ mat4[,3]
 mat4[3,]
 
 # Elemento especiales
+-1:1/0
+x <- NA
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
