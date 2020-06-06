@@ -32,7 +32,7 @@ sum(retail[retail$Year==2000, ]$Sales)
 unique(retail$Year)
 
 # Utilicemos una estructura FOR para crear un DF en donde almacenaremos 
-# un resumen por año
+# un resumen por año.
 ResumenSales <- data.frame(Year = integer(),
                            VentaTotal = double())
 NuevaFila <- data.frame()

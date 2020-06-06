@@ -26,7 +26,7 @@ summary(Prestige)
 Prestige[is.na(Prestige$type), ]
 
 help("Prestige")
-# Analisis de correlacion entre todas las variables numericas
+# Analisis de correlacion entre todas las variables numericas.
 cor(Prestige[,-6])
 
 library(corrplot)
